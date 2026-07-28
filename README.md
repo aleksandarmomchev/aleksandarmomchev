@@ -2,13 +2,13 @@
 
 Automation & Integration Specialist based in Varna, Bulgaria.
 
-I build and operate independent technical projects involving workflow automation, API integration, self-hosted infrastructure, WordPress and AI-assisted content systems.
+I design, build and maintain independent technical systems involving workflow automation, API integration, self-hosted infrastructure, market-data processing, WordPress and AI-assisted content operations.
 
 ## Technical Focus
 
 - n8n workflow automation
 - REST APIs, webhooks and JSON
-- API authentication and error handling
+- API authentication, validation and error handling
 - Linux and Ubuntu administration
 - Docker and Docker Compose
 - Nginx, systemd and Cloudflare Tunnels
@@ -16,25 +16,70 @@ I build and operate independent technical projects involving workflow automation
 - Technical SEO and publishing automation
 - JavaScript for workflow logic and data transformation
 - Basic Python scripting
-- Self-hosted AI workflow infrastructure
+- Self-hosted AI infrastructure
 - Monitoring, health checks and troubleshooting
+- Market-data processing and alert automation
 
-## Current Projects
+## Featured Projects
 
 ### AI Tuning
 
-AI Tuning is an independent, pre-revenue technical project focused on self-hosted automation, local AI infrastructure, API routing, monitoring and workflow orchestration.
+AI Tuning is an independent technical project focused on self-hosted automation, local AI infrastructure, API routing, monitoring and workflow orchestration.
 
-I personally configure and maintain the Linux servers, Docker services, n8n workflows, Nginx services, Cloudflare Tunnels, APIs, monitoring and supporting infrastructure.
+I personally configure and maintain:
+
+- Linux servers
+- Docker services
+- n8n workflows
+- Nginx services
+- Cloudflare Tunnels
+- API routing
+- monitoring and health checks
+- local AI services
+- supporting infrastructure
 
 - Website: https://aituning.io
 - GitHub organization: https://github.com/AITuningEU
 
+### WaveFibs
+
+WaveFibs is an independent market-data automation and technical-analysis project.
+
+It demonstrates:
+
+- cryptocurrency market-data processing
+- multi-timeframe signal analysis
+- indicator-based workflow logic
+- dashboard and signal-matrix updates
+- structured market summaries
+- Telegram alert distribution
+- data-freshness monitoring
+- handling of delayed, missing or unavailable data
+
+WaveFibs provides informational market analysis and does not execute trades or manage customer funds.
+
+- Website: https://wavefibs.com
+
 ### Eat With Rhythm
 
-Eat With Rhythm is an independent WordPress, SEO and content-operations project involving website administration, structured publishing workflows, technical SEO and automated content processes.
+Eat With Rhythm is an independent WordPress, SEO and content-operations project.
+
+It demonstrates:
+
+- WordPress administration
+- technical SEO
+- structured content workflows
+- automated publishing
+- website operations
+- content planning and organisation
 
 - Website: https://eatwithrhythm.com
+
+## Portfolio
+
+My public technical portfolio contains sanitized project documentation and troubleshooting examples.
+
+- Portfolio: https://github.com/aleksandarmomchev/automation-integration-portfolio
 
 ## Current Objective
 
@@ -45,11 +90,15 @@ I am seeking a fully remote junior or associate position in:
 - WordPress and technical SEO
 - Linux and junior infrastructure
 - AI workflow and content operations
+- Data and website operations
 
-I am based in Bulgaria and available to start immediately.
+I am based in Bulgaria, available to start immediately and able to work up to 40 hours per week.
 
 ## Links
 
+- GitHub: https://github.com/aleksandarmomchev
 - LinkedIn: https://www.linkedin.com/in/aleksandar-momchev-700885144
+- Portfolio: https://github.com/aleksandarmomchev/automation-integration-portfolio
 - AI Tuning: https://aituning.io
-- AI Tuning GitHub: https://github.com/AITuningEU
+- WaveFibs: https://wavefibs.com
+- Eat With Rhythm: https://eatwithrhythm.com
